@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "id": 1,
+      "name": "Budi Santoso",
+      "school": "SD Negeri 1 Wedung",
+      "totalScore": 18,
+      "numeracyScore": 9,
+      "literacyScore": 9,
+      "completed": true,
+      "timestamp": "2023-06-10T08:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Siti Nurhaliza",
+      "school": "SD Negeri 2 Wedung",
+      "totalScore": 16,
+      "numeracyScore": 8,
+      "literacyScore": 8,
+      "completed": true,
+      "timestamp": "2023-06-09T10:15:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Ahmad Rizki",
+      "school": "SD Islam Al-Azhar",
+      "totalScore": 19,
+      "numeracyScore": 10,
+      "literacyScore": 9,
+      "completed": true,
+      "timestamp": "2023-06-08T14:45:00.000Z"
+    }
+  ],
+  "health": {
+    "status": "ok"
+  }
+}
